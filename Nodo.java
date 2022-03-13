@@ -3,7 +3,7 @@ public class Nodo {
     public Alumnoss alumno;
     public Nodo siguiente;
    
-    public Nodo(Alumnoss dato){
+    public Nodo(Alumnoss alumno){
         this.alumno = alumno;
     }
    
